@@ -1,6 +1,6 @@
 title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+author: ruiyinchen
+email: cry2133@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Adam Denisov
-  tagline: Developer. Designer
+  tagline: Developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,9 +24,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: cry2133
+    github:  cry2133
+    linkedIn: in/cry2133
     rss: rss
  
 
